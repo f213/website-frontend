@@ -27,7 +27,7 @@
     "dotenv": "^8.2.0",
     "express": "^4.17.1",
     "jsonwebtoken": "^8.5.1",
-    "nuxt": "^2.15.4",
+    "nuxt": "^2.15.7",
     "nuxt-jsonld": "^1.4.5"
   },
   "devDependencies": {
